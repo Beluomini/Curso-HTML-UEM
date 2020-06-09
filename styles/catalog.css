@@ -1,0 +1,80 @@
+body .background {
+    background-color: #feecd6;
+    padding-left: 160px;
+    display: flex;
+    min-height: 100vh;
+}
+
+body .background .bg2-container {
+    background-color: rgba(51, 143, 142, 0.15);
+    width: 80%;
+    box-shadow: 0px 2px 50px rgba(0, 0, 0, 0.2);
+    margin: 0 auto;
+    box-shadow: 0px 2px 50px rgba(0, 0, 0, 0.2);
+}
+
+body .background .bg2-container header img {
+    width: 200px;
+    margin: 10px 0px 20px 30px;
+}
+
+body .background .bg2-container header h1 {
+    font-family: Cookie;
+    display: flex;
+    justify-content: center;
+    font-size: 130px;
+    color: #4b0a34;
+    text-shadow: -3px 1px 0px rgba(200, 39, 70, 0.6);
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    position: relative;
+    bottom: 80px;
+    margin-bottom: -51px;
+}
+
+body .background .bg2-container .catalog-content .catalog-title {
+    background-color: #d82746;
+    border-radius: 12px;
+    padding: 2px 20px;
+    margin: 0px 0px 20px 40px;
+    display: inline-block;
+    position: relative;
+    top: 44px;
+}
+
+body .background .bg2-container .catalog-content .catalog-title h2 {
+    font-family: Cookie;
+    font-size: 40px;
+    color: #feecd6;
+}
+
+body .background .bg2-container .catalog-content .card-wrap {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(251, 173, 134, 0.4);
+    padding: 20px 0px;
+    margin: 0px 20px;
+    border: 2px solid #d02746;
+    border-radius: 8px;
+}
+
+body .background .bg2-container .catalog-content .card-wrap .card {
+    background-color: rgba(52, 143, 142, 0.8);
+    margin: 20px 1px;
+    border-radius: 15px;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.8);
+}
+
+body .background .bg2-container .catalog-content .card-wrap .card img {
+    width: 200px;
+    height: 300px;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 23px;
+}
+
+body .background .bg2-container .catalog-content .card-wrap .card p {
+    font-family: Lobster Two;
+    color: #feecd6;
+    margin: 10px 10px 10px 13px;
+}

@@ -1,0 +1,50 @@
+body .background .bg2-container .contact {
+    width: 75%;
+    background-color: rgba(251, 173, 134, 0.4);
+    border: 2px solid #d02746;
+    border-radius: 8px;
+    margin: auto;
+    margin-top: 140px;
+    margin-bottom: 20px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+}
+
+body .background .bg2-container .contact footer p {
+    padding-right: 10px;
+    color: #4b0a34;
+}
+
+body .background .bg2-container .contact footer .contact1 {
+    display: flex;
+    justify-content: center;
+    font-family: Lobster Two;
+    font-size: 20px;
+    position: relative;
+    bottom: 20px;
+}
+
+body .background .bg2-container .contact footer .contact2 {
+    display: flex;
+    justify-content: center;
+    font-family: Lobster Two;
+    font-size: 20px;
+    padding: 10px;
+    position: relative;
+    bottom: 20px;
+}
+
+body .background .bg2-container .contact footer .contact-title {
+    background-color: #d02746;
+    border-radius: 12px;
+    display: inline-block;
+    padding: 2px 20px;
+    position: relative;
+    bottom: 20px;
+    margin: 0px 90px 10px 20px;
+}
+
+body .background .bg2-container .contact footer .contact-title h2 {
+    font-family: Cookie;
+    font-size: 40px;
+    color: #feecd5;
+}
